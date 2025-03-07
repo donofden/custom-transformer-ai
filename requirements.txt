@@ -1,0 +1,30 @@
+# Core dependencies
+# python>=3.9
+
+# Machine Learning & Deep Learning Libraries
+torch==2.0.1
+torchvision==0.15.2
+torchaudio==2.0.2
+
+# Transformers & Tokenizer
+transformers==4.35.2
+tokenizers==0.14.1
+
+# Dataset Handling
+datasets==2.14.5
+
+# FastAPI for API Server
+fastapi==0.110.0
+uvicorn==0.23.2
+
+# Web UI (Optional)
+streamlit
+altair==4.2.0
+
+# Utilities
+numpy==1.26.3
+pandas==2.1.3
+scipy==1.11.4
+
+# Async Handling
+httpx==0.25.2

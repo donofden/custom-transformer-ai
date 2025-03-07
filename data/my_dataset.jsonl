@@ -1,0 +1,237 @@
+{"prompt": "What is Python?", "response": "Python is a programming language used for web development, AI, and more."}
+{"prompt": "Explain deep learning.", "response": "Deep learning is a subset of machine learning using neural networks."}
+{"prompt": "What is an API?", "response": "An API allows different software to communicate with each other."}
+{"prompt": "Who invented Python?", "response": "Guido van Rossum created Python in 1991."}
+{"prompt": "What is AI?", "response": "AI, or Artificial Intelligence, is the simulation of human intelligence in computers."}
+{"prompt": "Tell me a fun fact.", "response": "Did you know that octopuses have three hearts?"}
+{"prompt": "What is FastAPI?", "response": "FastAPI is a high-performance web framework for building APIs in Python."}
+{"prompt": "How does machine learning work?", "response": "Machine learning algorithms analyze data to find patterns and make decisions."}
+{"prompt": "What is the capital of France?", "response": "The capital of France is Paris."}
+{"prompt": "What is the weather like today?", "response": "The weather today is sunny with a high of 75°F."}
+{"prompt": "What is a neural network?", "response": "A neural network is a series of algorithms that attempt to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates."}
+{"prompt": "What is the use of Git?", "response": "Git is a version control system used to track changes in source code during software development."}
+{"prompt": "What is a database?", "response": "A database is an organized collection of data, generally stored and accessed electronically from a computer system."}
+{"prompt": "What is cloud computing?", "response": "Cloud computing is the delivery of computing services over the internet, allowing for flexible resources and economies of scale."}
+{"prompt": "What is blockchain?", "response": "Blockchain is a decentralized digital ledger that records transactions across many computers so that the record cannot be altered retroactively."}
+{"prompt": "What is a compiler?", "response": "A compiler is a program that translates source code written in a high-level programming language into machine code that a computer's processor can execute."}
+{"prompt": "What is a function in programming?", "response": "A function is a block of organized, reusable code that performs a single action or task."}
+{"prompt": "What is recursion?", "response": "Recursion is a programming technique where a function calls itself in order to solve a problem."}
+{"prompt": "What is a variable?", "response": "A variable is a storage location in programming that holds a value which can be changed during program execution."}
+{"prompt": "What is an algorithm?", "response": "An algorithm is a step-by-step procedure or formula for solving a problem."}
+{"prompt": "What is machine learning?", "response": "Machine learning is a type of artificial intelligence that allows software applications to become more accurate at predicting outcomes without being explicitly programmed to do so."}
+{"prompt": "What is a loop in programming?", "response": "A loop is a sequence of instructions that is continually repeated until a certain condition is reached."}
+{"prompt": "What is an object in programming?", "response": "An object is an instance of a class that contains both data and methods that operate on the data."}
+{"prompt": "What is inheritance in OOP?", "response": "Inheritance is a feature of object-oriented programming where a new class receives the properties and behaviors of an existing class."}
+{"prompt": "What is polymorphism in OOP?", "response": "Polymorphism is a feature of object-oriented programming that allows one interface to be used for a general class of actions."}
+{"prompt": "What is encapsulation in OOP?", "response": "Encapsulation is the bundling of data with the methods that operate on that data, restricting direct access to some of the object's components."}
+{"prompt": "What is a software framework?", "response": "A software framework is a platform for developing software applications that provides a foundation on which software developers can build programs for a specific platform."}
+{"prompt": "What is a library in programming?", "response": "A library is a collection of precompiled routines that a program can use."}
+{"prompt": "What is a web server?", "response": "A web server is a computer system that hosts websites and delivers web pages to users over the internet."}
+{"prompt": "What is HTTP?", "response": "HTTP, or Hypertext Transfer Protocol, is the foundation of any data exchange on the Web and a protocol used for transmitting hypertext requests and information between servers and browsers."}
+{"prompt": "What is HTTPS?", "response": "HTTPS, or Hypertext Transfer Protocol Secure, is an extension of HTTP that is used for secure communication over a computer network."}
+{"prompt": "What is a URL?", "response": "A URL, or Uniform Resource Locator, is the address of a web page on the internet."}
+{"prompt": "What is HTML?", "response": "HTML, or Hypertext Markup Language, is the standard markup language for creating web pages and web applications."}
+{"prompt": "What is CSS?", "response": "CSS, or Cascading Style Sheets, is a style sheet language used for describing the presentation of a document written in HTML or XML."}
+{"prompt": "What is JavaScript?", "response": "JavaScript is a programming language commonly used to create interactive effects within web browsers."}
+{"prompt": "What is a REST API?", "response": "A REST API is an application programming interface that conforms to the constraints of REST architectural style and allows for interaction with RESTful web services."}
+{"prompt": "What is JSON?", "response": "JSON, or JavaScript Object Notation, is a lightweight data-interchange format that is easy for humans to read and write and easy for machines to parse and generate."}
+{"prompt": "What is XML?", "response": "XML, or eXtensible Markup Language, is a markup language that defines a set of rules for encoding documents in a format that is both human-readable and machine-readable."}
+{"prompt": "What is SQL?", "response": "SQL, or Structured Query Language, is a standard programming language for managing and manipulating databases."}
+{"prompt": "What is NoSQL?", "response": "NoSQL is a type of database that provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases."}
+{"prompt": "What is a microservice?", "response": "A microservice is an architectural style that structures an application as a collection of loosely coupled services, which implement business capabilities."}
+{"prompt": "What is DevOps?", "response": "DevOps is a set of practices that combines software development (Dev) and IT operations (Ops) to shorten the development lifecycle and deliver high-quality software continuously."}
+{"prompt": "What is continuous integration?", "response": "Continuous integration is a practice in software engineering where code changes are automatically tested and merged into a shared repository several times a day."}
+{"prompt": "What is continuous deployment?", "response": "Continuous deployment is a software release process that uses automated testing to validate if changes to a codebase are correct and stable for immediate autonomous deployment to a production environment."}
+{"prompt": "What is a container?", "response": "A container is a lightweight, standalone, executable package of software that includes everything needed to run it: code, runtime, system tools, libraries, and settings."}
+{"prompt": "What is Docker?", "response": "Docker is a platform that uses OS-level virtualization to deliver software in packages called containers."}
+{"prompt": "What is Kubernetes?", "response": "Kubernetes is an open-source container orchestration platform that automates the deployment, scaling, and management of containerized applications."}
+{"prompt": "What is a virtual machine?", "response": "A virtual machine is an emulation of a computer system that provides the functionality of a physical computer."}
+{"prompt": "What is an IDE?", "response": "An IDE, or Integrated Development Environment, is a software application that provides comprehensive facilities to computer programmers for software development."}
+{"prompt": "What is version control?", "response": "Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later."}
+{"prompt": "What is a pull request?", "response": "A pull request is a method of submitting contributions to an open development project, where the changes are reviewed before being merged into the main codebase."}
+{"prompt": "What is a branch in Git?", "response": "A branch in Git is a lightweight movable pointer to one of these commits, used to develop features, fix bugs, or experiment with new ideas in isolation from the main codebase."}
+{"prompt": "What is a merge conflict?", "response": "A merge conflict occurs when Git is unable to automatically resolve differences in code between two commits."}
+{"prompt": "What is a commit in Git?", "response": "A commit in Git is a snapshot of your repository at a specific point in time."}
+{"prompt": "What is a repository?", "response": "A repository is a central location in which data is stored and managed."}
+{"prompt": "What is a framework?", "response": "A framework is a platform for developing software applications that provides a foundation on which software developers can build programs for a specific platform."}
+{"prompt": "What is a library?", "response": "A library is a collection of precompiled routines that a program can use."}
+{"prompt": "What is a module?", "response": "A module is a file containing Python definitions and statements intended for use in other Python programs."}
+{"prompt": "What is a package?", "response": "A package is a namespace that organizes a set of related modules and provides a way of structuring Python’s module namespace by using 'dotted module names'."}
+{"prompt": "What is pip?", "response": "pip is a package-management system written in Python used to install and manage software packages."}
+{"prompt": "What is a virtual environment?", "response": "A virtual environment is a tool to keep dependencies required by different projects in separate places, by creating isolated Python environments for them."}
+{"prompt": "What is a decorator in Python?", "response": "A decorator is a function that takes another function and extends its behavior without explicitly modifying it."}
+{"prompt": "What is a generator in Python?", "response": "A generator is a function that returns an iterator that produces a sequence of values when iterated over."}
+{"prompt": "What is a lambda function?", "response": "A lambda function is a small anonymous function defined with the lambda keyword."}
+{"prompt": "What is a list comprehension?", "response": "A list comprehension is a concise way to create lists in Python using a single line of code."}
+{"prompt": "What is a dictionary in Python?", "response": "A dictionary is a collection of key-value pairs in Python."}
+{"prompt": "What is a tuple in Python?", "response": "A tuple is an immutable sequence of values in Python."}
+{"prompt": "What is a set in Python?", "response": "A set is an unordered collection of unique elements in Python."}
+{"prompt": "What is a class in Python?", "response": "A class is a blueprint for creating objects in Python."}
+{"prompt": "What is an instance in Python?", "response": "An instance is an individual object of a certain class in Python."}
+{"prompt": "What is inheritance in Python?", "response": "Inheritance is a feature of object-oriented programming that allows a class to inherit attributes and methods from another class."}
+{"prompt": "What is polymorphism in Python?", "response": "Polymorphism is a feature of object-oriented programming that allows different classes to be treated as instances of the same class through a common interface."}
+{"prompt": "What is encapsulation in Python?", "response": "Encapsulation is the bundling of data with the methods that operate on that data, restricting direct access to some of the object's components."}
+{"prompt": "What is abstraction in Python?", "response": "Abstraction is a feature of object-oriented programming that hides the implementation details and shows only the functionality to the user."}
+{"prompt": "What is a method in Python?", "response": "A method is a function that is associated with an object in Python."}
+{"prompt": "What is a constructor in Python?", "response": "A constructor is a special method that is called when an object is instantiated in Python."}
+{"prompt": "What is a destructor in Python?", "response": "A destructor is a special method that is called when an object is destroyed in Python."}
+{"prompt": "What is a static method in Python?", "response": "A static method is a method that belongs to a class rather than an instance of a class in Python."}
+{"prompt": "What is a class method in Python?", "response": "A class method is a method that is bound to the class and not the instance of the class in Python."}
+{"prompt": "What is a property in Python?", "response": "A property is a special kind of attribute that allows a class to define methods for getting, setting, and deleting its value in Python."}
+{"prompt": "What is a module in Python?", "response": "A module is a file containing Python definitions and statements intended for use in other Python programs."}
+{"prompt": "What is a package in Python?", "response": "A package is a namespace that organizes a set of related modules and provides a way of structuring Python’s module namespace by using 'dotted module names'."}
+{"prompt": "What is pip in Python?", "response": "pip is a package-management system written in Python used to install and manage software packages."}
+{"prompt": "What is a virtual environment in Python?", "response": "A virtual environment is a tool to keep dependencies required by different projects in separate places, by creating isolated Python environments for them."}
+{"prompt": "What is a decorator in Python?", "response": "A decorator is a function that takes another function and extends its behavior without explicitly modifying it."}
+{"prompt": "What is a generator in Python?", "response": "A generator is a function that returns an iterator that produces a sequence of values when iterated over."}
+{"prompt": "What is a lambda function in Python?", "response": "A lambda function is a small anonymous function defined with the lambda keyword."}
+{"prompt": "What is a list comprehension in Python?", "response": "A list comprehension is a concise way to create lists in Python using a single line of code."}
+{"prompt": "What is a dictionary in Python?", "response": "A dictionary is a collection of key-value pairs in Python."}
+{"prompt": "What is a tuple in Python?", "response": "A tuple is an immutable sequence of values in Python."}
+{"prompt": "What is a set in Python?", "response": "A set is an unordered collection of unique elements in Python."}
+{"prompt": "What is a class in Python?", "response": "A class is a blueprint for creating objects in Python."}
+{"prompt": "What is an instance in Python?", "response": "An instance is an individual object of a certain class in Python."}
+{"prompt": "What is inheritance in Python?", "response": "Inheritance is a feature of object-oriented programming that allows a class to inherit attributes and methods from another class."}
+{"prompt": "What is polymorphism in Python?", "response": "Polymorphism is a feature of object-oriented programming that allows different classes to be treated as instances of the same class through a common interface."}
+{"prompt": "What is encapsulation in Python?", "response": "Encapsulation is the bundling of data with the methods that operate on that data, restricting direct access to some of the object's components."}
+{"prompt": "What is abstraction in Python?", "response": "Abstraction is a feature of object-oriented programming that hides the implementation details and shows only the functionality to the user."}
+{"prompt": "What is a method in Python?", "response": "A method is a function that is associated with an object in Python."}
+{"prompt": "What is a constructor in Python?", "response": "A constructor is a special method that is called when an object is instantiated in Python."}
+{"prompt": "What is a destructor in Python?", "response": "A destructor is a special method that is called when an object is destroyed in Python."}
+{"prompt": "What is a static method in Python?", "response": "A static method is a method that belongs to a class rather than an instance of a class in Python."}
+{"prompt": "What is a class method in Python?", "response": "A class method is a method that is bound to the class and not the instance of the class in Python."}
+{"prompt": "What is a property in Python?", "response": "A property is a special kind of attribute that allows a class to define methods for getting, setting, and deleting its value in Python."}
+{"prompt": "What is a module in Python?", "response": "A module is a file containing Python definitions and statements intended for use in other Python programs."}
+{"prompt": "What is a package in Python?", "response": "A package is a namespace that organizes a set of related modules and provides a way of structuring Python’s module namespace by using 'dotted module names'."}
+{"prompt": "What is pip in Python?", "response": "pip is a package-management system written in Python used to install and manage software packages."}
+{"prompt": "What is a virtual environment in Python?", "response": "A virtual environment is a tool to keep dependencies required by different projects in separate places, by creating isolated Python environments for them."}
+{"prompt": "What is a decorator in Python?", "response": "A decorator is a function that takes another function and extends its behavior without explicitly modifying it."}
+{"prompt": "What is a generator in Python?", "response": "A generator is a function that returns an iterator that produces a sequence of values when iterated over."}
+{"prompt": "What is a lambda function in Python?", "response": "A lambda function is a small anonymous function defined with the lambda keyword."}
+{"prompt": "What is a list comprehension in Python?", "response": "A list comprehension is a concise way to create lists in Python using a single line of code."}
+{"prompt": "What is a dictionary in Python?", "response": "A dictionary is a collection of key-value pairs in Python."}
+{"prompt": "What is a tuple in Python?", "response": "A tuple is an immutable sequence of values in Python."}
+{"prompt": "What is a set in Python?", "response": "A set is an unordered collection of unique elements in Python."}
+{"prompt": "What is a class in Python?", "response": "A class is a blueprint for creating objects in Python."}
+{"prompt": "What is an instance in Python?", "response": "An instance is an individual object of a certain class in Python."}
+{"prompt": "What is inheritance in Python?", "response": "Inheritance is a feature of object-oriented programming that allows a class to inherit attributes and methods from another class."}
+{"prompt": "What is polymorphism in Python?", "response": "Polymorphism is a feature of object-oriented programming that allows different classes to be treated as instances of the same class through a common interface."}
+{"prompt": "What is encapsulation in Python?", "response": "Encapsulation is the bundling of data with the methods that operate on that data, restricting direct access to some of the object's components."}
+{"prompt": "What is abstraction in Python?", "response": "Abstraction is a feature of object-oriented programming that hides the implementation details and shows only the functionality to the user."}
+{"prompt": "What is a method in Python?", "response": "A method is a function that is associated with an object in Python."}
+{"prompt": "What is a constructor in Python?", "response": "A constructor is a special method that is called when an object is instantiated in Python."}
+{"prompt": "What is a destructor in Python?", "response": "A destructor is a special method that is called when an object is destroyed in Python"}
+{"prompt": "What is a neural network?", "response": "A neural network is a series of algorithms that attempt to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates."}
+{"prompt": "What is the use of Git?", "response": "Git is a version control system used to track changes in source code during software development."}
+{"prompt": "What is a database?", "response": "A database is an organized collection of data, generally stored and accessed electronically from a computer system."}
+{"prompt": "What is cloud computing?", "response": "Cloud computing is the delivery of computing services over the internet, allowing for flexible resources and economies of scale."}
+{"prompt": "What is blockchain?", "response": "Blockchain is a decentralized digital ledger that records transactions across many computers so that the record cannot be altered retroactively."}
+{"prompt": "What is a compiler?", "response": "A compiler is a program that translates source code written in a high-level programming language into machine code that a computer's processor can execute."}
+{"prompt": "What is a function in programming?", "response": "A function is a block of organized, reusable code that performs a single action or task."}
+{"prompt": "What is recursion?", "response": "Recursion is a programming technique where a function calls itself in order to solve a problem."}
+{"prompt": "What is a variable?", "response": "A variable is a storage location in programming that holds a value which can be changed during program execution."}
+{"prompt": "What is an algorithm?", "response": "An algorithm is a step-by-step procedure or formula for solving a problem."}
+{"prompt": "What is machine learning?", "response": "Machine learning is a type of artificial intelligence that allows software applications to become more accurate at predicting outcomes without being explicitly programmed to do so."}
+{"prompt": "What is a loop in programming?", "response": "A loop is a sequence of instructions that is continually repeated until a certain condition is reached."}
+{"prompt": "What is an object in programming?", "response": "An object is an instance of a class that contains both data and methods that operate on the data."}
+{"prompt": "What is inheritance in OOP?", "response": "Inheritance is a feature of object-oriented programming where a new class receives the properties and behaviors of an existing class."}
+{"prompt": "What is polymorphism in OOP?", "response": "Polymorphism is a feature of object-oriented programming that allows one interface to be used for a general class of actions."}
+{"prompt": "What is encapsulation in OOP?", "response": "Encapsulation is the bundling of data with the methods that operate on that data, restricting direct access to some of the object's components."}
+{"prompt": "What is a software framework?", "response": "A software framework is a platform for developing software applications that provides a foundation on which software developers can build programs for a specific platform."}
+{"prompt": "What is a library in programming?", "response": "A library is a collection of precompiled routines that a program can use."}
+{"prompt": "What is a web server?", "response": "A web server is a computer system that hosts websites and delivers web pages to users over the internet."}
+{"prompt": "What is HTTP?", "response": "HTTP, or Hypertext Transfer Protocol, is the foundation of any data exchange on the Web and a protocol used for transmitting hypertext requests and information between servers and browsers."}
+{"prompt": "What is HTTPS?", "response": "HTTPS, or Hypertext Transfer Protocol Secure, is an extension of HTTP that is used for secure communication over a computer network."}
+{"prompt": "What is a URL?", "response": "A URL, or Uniform Resource Locator, is the address of a web page on the internet."}
+{"prompt": "What is HTML?", "response": "HTML, or Hypertext Markup Language, is the standard markup language for creating web pages and web applications."}
+{"prompt": "What is CSS?", "response": "CSS, or Cascading Style Sheets, is a style sheet language used for describing the presentation of a document written in HTML or XML."}
+{"prompt": "What is JavaScript?", "response": "JavaScript is a programming language commonly used to create interactive effects within web browsers."}
+{"prompt": "What is a REST API?", "response": "A REST API is an application programming interface that conforms to the constraints of REST architectural style and allows for interaction with RESTful web services."}
+{"prompt": "What is JSON?", "response": "JSON, or JavaScript Object Notation, is a lightweight data-interchange format that is easy for humans to read and write and easy for machines to parse and generate."}
+{"prompt": "What is XML?", "response": "XML, or eXtensible Markup Language, is a markup language that defines a set of rules for encoding documents in a format that is both human-readable and machine-readable."}
+{"prompt": "What is SQL?", "response": "SQL, or Structured Query Language, is a standard programming language for managing and manipulating databases."}
+{"prompt": "What is NoSQL?", "response": "NoSQL is a type of database that provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases."}
+{"prompt": "What is a microservice?", "response": "A microservice is an architectural style that structures an application as a collection of loosely coupled services, which implement business capabilities."}
+{"prompt": "What is DevOps?", "response": "DevOps is a set of practices that combines software development (Dev) and IT operations (Ops) to shorten the development lifecycle and deliver high-quality software continuously."}
+{"prompt": "What is continuous integration?", "response": "Continuous integration is a practice in software engineering where code changes are automatically tested and merged into a shared repository several times a day."}
+{"prompt": "What is continuous deployment?", "response": "Continuous deployment is a software release process that uses automated testing to validate if changes to a codebase are correct and stable for immediate autonomous deployment to a production environment."}
+{"prompt": "What is a container?", "response": "A container is a lightweight, standalone, executable package of software that includes everything needed to run it: code, runtime, system tools, libraries, and settings."}
+{"prompt": "What is Docker?", "response": "Docker is a platform that uses OS-level virtualization to deliver software in packages called containers."}
+{"prompt": "What is Kubernetes?", "response": "Kubernetes is an open-source container orchestration platform that automates the deployment, scaling, and management of containerized applications."}
+{"prompt": "What is a virtual machine?", "response": "A virtual machine is an emulation of a computer system that provides the functionality of a physical computer."}
+{"prompt": "What is an IDE?", "response": "An IDE, or Integrated Development Environment, is a software application that provides comprehensive facilities to computer programmers for software development."}
+{"prompt": "What is version control?", "response": "Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later."}
+{"prompt": "What is a pull request?", "response": "A pull request is a method of submitting contributions to an open development project, where the changes are reviewed before being merged into the main codebase."}
+{"prompt": "What is a branch in Git?", "response": "A branch in Git is a lightweight movable pointer to one of these commits, used to develop features, fix bugs, or experiment with new ideas in isolation from the main codebase."}
+{"prompt": "What is a merge conflict?", "response": "A merge conflict occurs when Git is unable to automatically resolve differences in code between two commits."}
+{"prompt": "What is a commit in Git?", "response": "A commit in Git is a snapshot of your repository at a specific point in time."}
+{"prompt": "What is a repository?", "response": "A repository is a central location in which data is stored and managed."}
+{"prompt": "What is a framework?", "response": "A framework is a platform for developing software applications that provides a foundation on which software developers can build programs for a specific platform."}
+{"prompt": "What is a library?", "response": "A library is a collection of precompiled routines that a program can use."}
+{"prompt": "What is a module?", "response": "A module is a file containing Python definitions and statements intended for use in other Python programs."}
+{"prompt": "What is a package?", "response": "A package is a namespace that organizes a set of related modules and provides a way of structuring Python’s module namespace by using 'dotted module names'."}
+{"prompt": "What is pip?", "response": "pip is a package-management system written in Python used to install and manage software packages."}
+{"prompt": "What is a virtual environment?", "response": "A virtual environment is a tool to keep dependencies required by different projects in separate places, by creating isolated Python environments for them."}
+{"prompt": "What is a decorator in Python?", "response": "A decorator is a function that takes another function and extends its behavior without explicitly modifying it."}
+{"prompt": "What is a generator in Python?", "response": "A generator is a function that returns an iterator that produces a sequence of values when iterated over."}
+{"prompt": "What is a lambda function?", "response": "A lambda function is a small anonymous function defined with the lambda keyword."}
+{"prompt": "What is a list comprehension?", "response": "A list comprehension is a concise way to create lists in Python using a single line of code."}
+{"prompt": "What is a dictionary in Python?", "response": "A dictionary is a collection of key-value pairs in Python."}
+{"prompt": "What is a tuple in Python?", "response": "A tuple is an immutable sequence of values in Python."}
+{"prompt": "What is a set in Python?", "response": "A set is an unordered collection of unique elements in Python."}
+{"prompt": "What is a class in Python?", "response": "A class is a blueprint for creating objects in Python."}
+{"prompt": "What is an instance in Python?", "response": "An instance is an individual object of a certain class in Python."}
+{"prompt": "What is inheritance in Python?", "response": "Inheritance is a feature of object-oriented programming that allows a class to inherit attributes and methods from another class."}
+{"prompt": "What is polymorphism in Python?", "response": "Polymorphism is a feature of object-oriented programming that allows different classes to be treated as instances of the same class through a common interface."}
+{"prompt": "What is encapsulation in Python?", "response": "Encapsulation is the bundling of data with the methods that operate on that data, restricting direct access to some of the object's components."}
+{"prompt": "What is abstraction in Python?", "response": "Abstraction is a feature of object-oriented programming that hides the implementation details and shows only the functionality to the user."}
+{"prompt": "What is a method in Python?", "response": "A method is a function that is associated with an object in Python."}
+{"prompt": "What is a constructor in Python?", "response": "A constructor is a special method that is called when an object is instantiated in Python."}
+{"prompt": "What is a destructor in Python?", "response": "A destructor is a special method that is called when an object is destroyed in Python."}
+{"prompt": "What is a static method in Python?", "response": "A static method is a method that belongs to a class rather than an instance of a class in Python."}
+{"prompt": "What is a class method in Python?", "response": "A class method is a method that is bound to the class and not the instance of the class in Python."}
+{"prompt": "What is a property in Python?", "response": "A property is a special kind of attribute that allows a class to define methods for getting, setting, and deleting its value in Python."}
+{"prompt": "What is a module in Python?", "response": "A module is a file containing Python definitions and statements intended for use in other Python programs."}
+{"prompt": "What is a package in Python?", "response": "A package is a namespace that organizes a set of related modules and provides a way of structuring Python’s module namespace by using 'dotted module names'."}
+{"prompt": "What is pip in Python?", "response": "pip is a package-management system written in Python used to install and manage software packages."}
+{"prompt": "What is a virtual environment in Python?", "response": "A virtual environment is a tool to keep dependencies required by different projects in separate places, by creating isolated Python environments for them."}
+{"prompt": "What is a decorator in Python?", "response": "A decorator is a function that takes another function and extends its behavior without explicitly modifying it."}
+{"prompt": "What is a generator in Python?", "response": "A generator is a function that returns an iterator that produces a sequence of values when iterated over."}
+{"prompt": "What is a lambda function in Python?", "response": "A lambda function is a small anonymous function defined with the lambda keyword."}
+{"prompt": "What is a list comprehension in Python?", "response": "A list comprehension is a concise way to create lists in Python using a single line of code."}
+{"prompt": "What is a dictionary in Python?", "response": "A dictionary is a collection of key-value pairs in Python."}
+{"prompt": "What is a tuple in Python?", "response": "A tuple is an immutable sequence of values in Python."}
+{"prompt": "What is a set in Python?", "response": "A set is an unordered collection of unique elements in Python."}
+{"prompt": "What is a class in Python?", "response": "A class is a blueprint for creating objects in Python."}
+{"prompt": "What is an instance in Python?", "response": "An instance is an individual object of a certain class in Python."}
+{"prompt": "What is inheritance in Python?", "response": "Inheritance is a feature of object-oriented programming that allows a class to inherit attributes and methods from another class."}
+{"prompt": "What is polymorphism in Python?", "response": "Polymorphism is a feature of object-oriented programming that allows different classes to be treated as instances of the same class through a common interface."}
+{"prompt": "What is encapsulation in Python?", "response": "Encapsulation is the bundling of data with the methods that operate on that data, restricting direct access to some of the object's components."}
+{"prompt": "What is abstraction in Python?", "response": "Abstraction is a feature of object-oriented programming that hides the implementation details and shows only the functionality to the user."}
+{"prompt": "What is a method in Python?", "response": "A method is a function that is associated with an object in Python."}
+{"prompt": "What is a constructor in Python?", "response": "A constructor is a special method that is called when an object is instantiated in Python."}
+{"prompt": "What is a destructor in Python?", "response": "A destructor is a special method that is called when an object is destroyed in Python."}
+{"prompt": "What is a static method in Python?", "response": "A static method is a method that belongs to a class rather than an instance of a class in Python."}
+{"prompt": "What is a class method in Python?", "response": "A class method is a method that is bound to the class and not the instance of the class in Python."}
+{"prompt": "What is a property in Python?", "response": "A property is a special kind of attribute that allows a class to define methods for getting, setting, and deleting its value in Python."}
+{"prompt": "What is a module in Python?", "response": "A module is a file containing Python definitions and statements intended for use in other Python programs."}
+{"prompt": "What is a package in Python?", "response": "A package is a namespace that organizes a set of related modules and provides a way of structuring Python’s module namespace by using 'dotted module names'."}
+{"prompt": "What is pip in Python?", "response": "pip is a package-management system written in Python used to install and manage software packages."}
+{"prompt": "What is a virtual environment in Python?", "response": "A virtual environment is a tool to keep dependencies required by different projects in separate places, by creating isolated Python environments for them."}
+{"prompt": "What is a decorator in Python?", "response": "A decorator is a function that takes another function and extends its behavior without explicitly modifying it."}
+{"prompt": "What is a generator in Python?", "response": "A generator is a function that returns iterator that produces a sequence of values when iterated over."}
+{"prompt": "What is a lambda function in Python?", "response": "A lambda function is a small anonymous function defined with the lambda keyword."}
+{"prompt": "What is a list comprehension in Python?", "response": "A list comprehension is a concise way to create lists in Python using a single line of code."}
+{"prompt": "What is a dictionary in Python?", "response": "A dictionary is a collection of key-value pairs in Python."}
+{"prompt": "What is a tuple in Python?", "response": "A tuple is an immutable sequence of values in Python."}
+{"prompt": "What is a set in Python?", "response": "A set is an unordered collection of unique elements in Python."}
+{"prompt": "What is a class in Python?", "response": "A class is a blueprint for creating objects in Python."}
+{"prompt": "What is an instance in Python?", "response": "An instance is an individual object of a certain class in Python."}
+{"prompt": "What is inheritance in Python?", "response": "Inheritance is a feature of object-oriented programming that allows a class to inherit attributes and methods from another class."}
+{"prompt": "What is polymorphism in Python?", "response": "Polymorphism is a feature of object-oriented programming that allows different classes to be treated as instances of the same class through a common interface."}
+{"prompt": "What is encapsulation in Python?", "response": "Encapsulation is the bundling of data with the methods that operate on that data, restricting direct access to some of the object's components."}
+{"prompt": "What is abstraction in Python?", "response": "Abstraction is a feature of object-oriented programming that hides the implementation details and shows only the functionality to the user."}
+{"prompt": "What is a method in Python?", "response": "A method is a function that is associated with an object in Python."}
+{"prompt": "What is a constructor in Python?", "response": "A constructor is a special method that is called when an object is instantiated in Python."}
+{"prompt": "What is a destructor in Python?", "response": "A destructor is a special method that is called when an object is destroyed in Python."}
+{"prompt": "What is a static method in Python?", "response": "A static method is a method that belongs to a class rather than"}

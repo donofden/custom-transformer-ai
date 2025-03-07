@@ -1,0 +1,11 @@
+{
+    "learning_rate": 0.0002,
+    "batch_size": 16,
+    "epochs": 15,
+    "vocab_size": 500,
+    "max_length": 64,
+    "batch_first": true,
+    "tokenizer_path": "../models/tokenizer.json",
+    "dataset_path": "../data/my_dataset.jsonl",
+    "model_save_path": "../models/custom_transformer.pth"
+}
