@@ -10,7 +10,7 @@ This project is a **custom-built Transformer AI** designed to generate text resp
 
 AI-Interface:
 
-![Full screen](AI-Interface.PNG)
+![Full screen](AI-Interface.png)
 
 ---
 ## **📂 Project Structure**
