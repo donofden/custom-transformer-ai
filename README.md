@@ -8,6 +8,10 @@ This project is a **custom-built Transformer AI** designed to generate text resp
 - An **API server (FastAPI)** to serve the AI model.
 - A **Streamlit UI** to interact with the AI via a web interface.
 
+AI-Interface:
+
+![Full screen](AI-Interface.PNG)
+
 ---
 ## **📂 Project Structure**
 ```
